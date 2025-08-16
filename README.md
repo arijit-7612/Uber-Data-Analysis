@@ -115,6 +115,6 @@ KPIs to Track:
 
 Here’s a snapshot of the Power BI dashboard built in this project:  
 
-![Dashboard Preview](dashboard/dashboard.jpg)
+![Dashboard Preview](Dashboard/dashboard.jpg)
 
 
